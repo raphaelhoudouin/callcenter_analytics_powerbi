@@ -26,5 +26,5 @@ Below is an overview of the Power BI dashboard showcasing the key performance in
 ## Contact
 
 For any questions or feedback, please contact the project maintainer: **raphaelhoudouin**.  
-GitHub: [raphaelhoudouin](https://github.com/raphaelhoudouin/).
+GitHub: [raphaelhoudouin](https://github.com/raphaelhoudouin/)
 
